@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Svistunov Sergey 👋
 
+I'm an entry-level data analyst and actively looking for a job. Currently working as a 1C programmer for five years. Graduated from Radio Engineering University with a degree in Informatics and Computer Engineering.
+A year ago I became interested in data analytics and machine learning. I enjoy finding useful patterns in data, visualizing data, developing machine learning models, and evaluating their quality using metrics.
+
+#### Key skills:
+Python, SQL, Pandas, NumPy, Scikit-learn, SciPy, TensorFlow, Keras
+
+### Connect with me:
+sadmoses@gmail.com, https://t.me/StarkyPie
 <!--
 **StarkyPie/StarkyPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
